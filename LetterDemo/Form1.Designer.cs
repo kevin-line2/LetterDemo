@@ -137,7 +137,7 @@
             this.txtEmailAddr.Name = "txtEmailAddr";
             this.txtEmailAddr.Size = new System.Drawing.Size(313, 20);
             this.txtEmailAddr.TabIndex = 11;
-            this.txtEmailAddr.Text = "krogers@toktumi.com";
+            this.txtEmailAddr.Text = "kevin.email.test@kafekevin.com";
             // 
             // txtDbKey
             // 

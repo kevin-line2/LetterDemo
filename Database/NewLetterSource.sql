@@ -8,8 +8,8 @@ INSERT INTO [dbo].[LetterSource]
            ,[CCardExpYear])
      VALUES
            ('Kevin'
-           ,'Rogers'
-           ,'14152235810'
+           ,'Smith'
+           ,'14152235800'
            ,'Visa'
            ,'0654'
            ,5
