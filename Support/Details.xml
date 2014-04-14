@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='email.xsl'?>
+<Details>
+  <firstName>Kevin</firstName>
+  <lastName>Rogers</lastName>
+  <account>14152235810</account>
+  <cardType>Visa</cardType>
+  <lastFour>0654</lastFour>
+  <expireMonth>5</expireMonth>
+  <expireYear>2014</expireYear>
+</Details>
